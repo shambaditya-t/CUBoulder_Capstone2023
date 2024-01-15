@@ -1,0 +1,22 @@
+
+.Footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 80px;
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.FooterItem {
+  padding: 0px 0.5em;
+}
+
+.TestStatusText {
+  /* width: 250px; */
+  cursor: default;
+  overflow: wrap;
+}
